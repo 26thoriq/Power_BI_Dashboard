@@ -39,7 +39,7 @@ This project translates raw data into actionable intelligence by leveraging key 
 
 This second iteration optimizes the user experience by consolidating everything into a **single, highly-focused page**, putting the most valuable market insights right at your fingertips.
 
-![Data Jobs Dashboard v2.0](../images/page_1_v2.png) 
+![Data Jobs Dashboard v2](../Images/page_1_v2.png) 
 
 Think of this page as your personal mission control for the data job market. It immediately highlights vital metrics—such as **Total Job Count, Average Skills Per Job, and Median Salaries (Yearly & Hourly)**. Additionally, users can instantly analyze **Skill Popularity** and compare **Compensation across diverse Job Titles**, all within one seamless and efficient view.
 
