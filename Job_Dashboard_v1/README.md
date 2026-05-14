@@ -36,13 +36,13 @@ This project demonstrates end-to-end data development using key Power BI feature
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](../images/page_1.png)  
+![Data Jobs Dashboard Page 1](../Images/page_1.png)  
 
 This acts as the mission control for the dataset. It highlights vital KPIs like the total number of job postings, overall median salaries, and the most in-demand job titles, giving users an immediate snapshot of the current market landscape.
 
 ### Page 2: Job Title Drill-Through
 
-![Data Jobs Dashboard Page 2](../images/page_2.png)  
+![Data Jobs Dashboard Page 2](../Images/page_2.png)  
 
 This is the targeted deep-dive view. Users can drill through from the main page to isolate specific details for a single job title. It breaks down salary ranges, remote work (WFH) availability, top hiring platforms, and pinpoints exact job locations on a global map.
 
