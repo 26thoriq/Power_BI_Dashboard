@@ -25,7 +25,7 @@ This repository documents my progression in building scalable and interactive an
 
 ## 📈 Data Jobs Dashboard v2 (Single-Page Focus)
 ![Data Jobs v2 GIF](/Images/page_1_v2.png)
-[🔗**View Interactive Dashboard**](href="https://app.powerbi.com/view?r=eyJrIjoiMDlmMmMwOTUtNzlkNy00ZmFiLTkwMmEtMTFmODhkODRmZDMzIiwidCI6IjM0NjI3ODc0LWVkM2EtNDk3Yy04ZmI5LTE2Y2U3ZTk3NjRmMSIsImMiOjEwfQ%3D%3D)
+[🔗**View Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMDlmMmMwOTUtNzlkNy00ZmFiLTkwMmEtMTFmODhkODRmZDMzIiwidCI6IjM0NjI3ODc0LWVkM2EtNDk3Yy04ZmI5LTE2Y2U3ZTk3NjRmMSIsImMiOjEwfQ%3D%3D)
 
 **Key Power BI Skills Utilized:**
 -   **🎨 Advanced Dashboard Layout and Design**
