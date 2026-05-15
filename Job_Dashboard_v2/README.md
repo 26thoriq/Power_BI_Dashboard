@@ -1,4 +1,4 @@
-# Data Jobs Dashboard 2.0 w/ Power BI
+# Data Jobs Dashboard 2.0 with Power BI
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDlmMmMwOTUtNzlkNy00ZmFiLTkwMmEtMTFmODhkODRmZDMzIiwidCI6IjM0NjI3ODc0LWVkM2EtNDk3Yy04ZmI5LTE2Y2U3ZTk3NjRmMSIsImMiOjEwfQ%3D%3D" target="_blank">
   <img src="../Resources/project_2.gif" alt="Data Jobs Dashboard GIF">
